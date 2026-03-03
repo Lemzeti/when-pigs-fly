@@ -1,2 +1,2 @@
 # when-pigs-fly
-Entry for Pig Game Jam 2026
+Entry for [Pig Jam 2026](https://itch.io/jam/pig-jam-2026)
